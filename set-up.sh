@@ -1,0 +1,5 @@
+echo '[set-up.sh]start'
+echo '[set-up.sh]1'
+echo '[set-up.sh]2'
+echo '[set-up.sh]3'
+echo '[set-up.sh]end'
